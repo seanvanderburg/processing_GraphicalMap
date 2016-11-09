@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "timestamp": "2015-05-10T01:02:30.000Z",
+      "latitude": 66.0,
+      "longitude": -24.0,
+      "depth": 1,
+      "size": 1,
+      "quality": 100,
+      "humanReadableLocation": "Links, boven (66, -24)"
+    },
+    {
+      "timestamp": "2015-05-10T00:09:34.000Z",
+      "latitude": 66.0,
+      "longitude": -14.0,
+      "depth": 2,
+      "size": 2,
+      "quality": 100,
+      "humanReadableLocation": "Rechts, boven (66, -14)"
+    },
+    {
+      "timestamp": "2015-05-09T23:52:49.000Z",
+      "latitude": 64.0,
+      "longitude": -24.0,
+      "depth": 3,
+      "size": 3,
+      "quality": 100,
+      "humanReadableLocation": "Links, onder (64, -24)"
+    },
+    {
+      "timestamp": "2015-05-09T23:23:19.000Z",
+      "latitude": 64.0,
+      "longitude": -14.0,
+      "depth": 4,
+      "size": 4,
+      "quality": 100,
+      "humanReadableLocation": "Rechts, onder (64,-14)"
+    },
+    {
+      "timestamp": "2015-05-09T23:12:51.000Z",
+      "latitude": 65.0,
+      "longitude": -19.0,
+      "depth": 5,
+      "size": 5,
+      "quality": 100,
+      "humanReadableLocation": "Centrum (65, -19)"
+    }
+  ]
+}
